@@ -8,7 +8,7 @@ description = {
   summary = 'Lua Exceptions',
   detailed = 'Lua Exceptions',
   homepage = 'https://github.com/tvbeat/luaexc',
-  license = '??',
+  license = 'MIT',
 }
 dependencies = {
   "lua >= 5.1"
