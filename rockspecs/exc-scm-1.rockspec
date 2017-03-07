@@ -1,17 +1,17 @@
 package = 'exc'
 version = 'scm-1'
 source = {
-  url = 'git://github.com/tvbeat/luaexc.git',
+  url = 'git://github.com/razmjenavjestina/luaexc.git',
   branch = 'master',
 }
 description = {
   summary = 'Lua Exceptions',
   detailed = 'Lua Exceptions',
-  homepage = 'https://github.com/tvbeat/luaexc',
+  homepage = 'https://gitlab.com/razmjenavjestina/luaexc',
   license = 'MIT',
 }
 dependencies = {
-  "lua >= 5.1"
+  "lua >= 5.1",
 }
 build = {
   type = 'none',
